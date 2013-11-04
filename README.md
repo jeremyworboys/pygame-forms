@@ -1,2 +1,2 @@
-pygame-forms
+PyGame Forms
 ============
